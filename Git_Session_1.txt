@@ -1,0 +1,199 @@
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ ls
+cdssetup/
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ cd cdssetup
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/cdssetup
+$ ls
+OrCAD_Capture/  OrCAD_PSpice/
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/cdssetup
+$ cd ..
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ cd cdssetup/
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/cdssetup
+$ cd ..
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ cd roboVITICS
+bash: cd: roboVITICS: No such file or directory
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ mkdir roboVITICS
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ ls
+cdssetup/  roboVITICS/
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ mkdir yo1 yo2
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ mkdir Git\ Session
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ rmdir yo1 yo2 Git\ Session
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ ls
+cdssetup/  roboVITICS/
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ cd roboVITICS/
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ mkdir fol2
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ ls
+fol2/
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ cd ..
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ ls
+cdssetup/  roboVITICS/
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ rmdir fol2
+rmdir: failed to remove 'fol2': No such file or directory
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~
+$ cd roboVITICS/
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ rmdir fol2
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ mkdir something
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ cd someting
+bash: cd: someting: No such file or directory
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ cd something
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS/something
+$ mkdir yo
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS/something
+$ cd ..
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ rmdir something
+rmdir: failed to remove 'something': Directory not empty
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ rmdir something/ -- k
+rmdir: failed to remove 'something/': Directory not empty
+rmdir: failed to remove 'k': No such file or directory
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ rmdir something/ -- yo
+rmdir: failed to remove 'something/': Directory not empty
+rmdir: failed to remove 'yo': No such file or directory
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ cd something
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS/something
+$ rmdir yo
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS/something
+$ cd ..
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ rmdir something
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ ls
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ touch
+touch: missing file operand
+Try 'touch --help' for more information.
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ code index.html
+bash: code: command not found
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ nano hello.py
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ rm hello.py
+rm: cannot remove 'hello.py': No such file or directory
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ pwd
+/c/Users/Jatin Madineni/AppData/Roaming/SPB_Data/roboVITICS
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ git config --global user.name "Your Name"
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ git config --global user.name "Your Name"
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ git config --global user.name "Your Name"
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ git config --global user.name "Jatin Madineni"
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ ^C
+
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$  git config --global user.name "Jatin Madineni"
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$  git config --global user.email jtmadineni@gmail.com
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ git config --global user.email jtmadineni@gmail.com
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$  git config --global user.name "Jatin Madineni"
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS
+$ git init
+Initialized empty Git repository in C:/Users/Jatin Madineni/AppData/Roaming/SPB_Data/roboVITICS/.git/
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS (master)
+$ touch default.py
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        default.py
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Jatin Madineni@DESKTOP-6TI5BCT MINGW64 ~/roboVITICS (master)
+$
